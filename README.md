@@ -7,6 +7,12 @@ To run the app you need to run
 npm install
 npm start
 ```
+The avaliable routes are 
+```
+ /all - will return all users with tags
+ /features - wil return all features with the number of assigned users
+ /user - will return a single user with tags - is a post request and requires { "email": "user email here"} in the request body
+```
 
 
 
