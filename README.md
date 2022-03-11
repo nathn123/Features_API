@@ -1,5 +1,17 @@
 # Feature flag test
 
+
+# To Run
+To run the app you need to run 
+``` 
+npm install
+npm start
+```
+
+
+
+
+
 Your task is to create a simple feature flag API. A feature flag is, according to Wikipedia:
 
 > A feature toggle (also feature switch, feature flag, feature flipper, conditional feature, etc.) is a technique in software development that attempts to provide an alternative to maintaining multiple source-code branches (known as feature branches), such that a feature can be tested even before it is completed and ready for release. Feature toggle is used to hide, enable or disable the feature during run time. For example, during the development process, a developer can enable the feature for testing and disable it for other users.
